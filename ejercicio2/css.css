@@ -1,0 +1,60 @@
+@font-face {
+    font-family: queen;
+    src: url('QueenInlineGrunge.ttf');
+}
+
+
+body{
+    background-color: #062236;
+   
+}
+
+.img{
+    top: 50px;
+    width: 250px;
+    height: 250px;
+}
+
+
+.music{
+    margin-left: 700px;
+    border-radius:12px;
+    width: 300px;
+    height: 300px;
+
+}
+
+.divMusic{
+    width: 300px;
+    height: 500px;
+    padding: 50px;
+    position: absolute;
+    left: -200px;
+}
+
+.divImg{
+    top: 180px;
+    width: 250px;
+    height: 250px;
+    float: left;
+    padding: 50px;
+    position: absolute;
+}
+
+.divText{
+  
+    position: absolute;
+    padding: 50px;
+    position:relative;
+}
+
+li{
+    font-family: queen;
+    color: #ddb332;
+}
+
+h1{
+    font-family: queen;
+    color: #ddb332;
+}
+
